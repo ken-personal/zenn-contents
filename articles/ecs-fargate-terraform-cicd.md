@@ -1,5 +1,5 @@
 ---
-title: "ECS Fargate + Terraform + GitHub Actions で本番想定のCI/CDパイプラインをゼロから構築した話【OIDC・Trivy・監視基盤まで】"
+title: "ECS Fargate + Terraform + GitHub Actions でCI/CDをゼロから構築した話"
 emoji: "🚀"
 type: "tech"
 topics: ["aws", "terraform", "githubactions", "ecs", "nestjs"]
