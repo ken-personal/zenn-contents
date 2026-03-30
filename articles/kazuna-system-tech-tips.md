@@ -11,7 +11,7 @@ published: true
 個人事業主（食品卸業）から業務委託を受け、業務管理システムを一人で開発・本番デプロイした際に詰まったポイントをまとめました。
 
 システムの全体像・要件定義からアジャイル開発・手順書配布までの全工程は別記事にまとめています。
-→ **[個人事業主から業務委託を受け、発酵食品卸の業務管理システムを一人で完遂した話（全体像編）](#)** ※公開予定
+→ **[個人事業主から業務委託を受け、業務管理システムを一人で完遂した話【要件定義〜VPSデプロイまで】](https://zenn.dev/kenpersonal2507/articles/kazuna-system-overview)**
 
 技術スタック：`Next.js 15（App Router）` / `NestJS` / `TypeScript` / `PostgreSQL` / `Docker Compose` / `さくらVPS（Ubuntu / 1GB）`
 
@@ -417,7 +417,7 @@ function addTaxSummarySection(ws: XLSX.WorkSheet, summaries: TaxSummary[], start
 ---
 
 システム全体の設計・要件定義・アジャイル開発・手順書配布の話は別記事にまとめています。
-→ **[個人事業主から業務委託を受け、発酵食品卸の業務管理システムを一人で完遂した話（全体像編）](#)** ※公開予定
+→ **[個人事業主から業務委託を受け、業務管理システムを一人で完遂した話【要件定義〜VPSデプロイまで】](https://zenn.dev/kenpersonal2507/articles/kazuna-system-overview)**
 
 GitHubリポジトリ：[ken-personal/kazuna-system](https://github.com/ken-personal/kazuna-system)
 スキルシート：[Notion ポートフォリオ](https://tide-bank-7b4.notion.site/AWS-31b9ee43f66680eeadb1c5f2db6323ee)
