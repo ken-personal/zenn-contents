@@ -1,5 +1,5 @@
 ---
-title: "Next.js + NestJS + Docker + さくらVPSで詰まった5つのポイントと解決策【日本語ファイル名 / 型エラー / Docker内部通信 等】"
+title: "Next.js + NestJS + Docker + さくらVPSで詰まった5つのハマりポイントと解決策"
 emoji: "🔧"
 type: "tech"
 topics: ["nextjs", "nestjs", "docker", "vps", "typescript"]
